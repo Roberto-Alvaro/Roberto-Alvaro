@@ -8,7 +8,7 @@ My name is, Roberto, i am a student of engineering in intelligent systems, with 
 
 ### My skills:
 
-Java/Python
+Java/Python/Linux
 
 ### Interested in:
 
