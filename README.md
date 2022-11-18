@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi curious 👋
 
-<!--
-**Roberto-Alvaro/Roberto-Alvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who I am ?
+
+My name is, Roberto, i am a student of engineering in intelligent systems, with solid knowledge in development in python and java, in addition to having knowledge in linux server administration.
 
 Here are some ideas to get you started:
 
