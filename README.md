@@ -25,7 +25,7 @@ Git/OpenCV/Pandas/Photoshop
 <p align="left">
 <a href="https://instagram.com/robertovm_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertovm_4" height="30" width="40" /></a>
 <p></p>
-<a href="roberto_villegas_mendez@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roberto Villegas Mendez" height="30" width="40" />roberto_villegas_mendez@outlook.com</a>
+<a href="mailto:roberto_villegas_mendez@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roberto Villegas Mendez" height="30" width="40" />roberto_villegas_mendez@outlook.com</a>
 </p>
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roberto-Alvaro&show_icons=true&locale=en&layout=compact" alt="Roberto-Alvaro" /></p>
