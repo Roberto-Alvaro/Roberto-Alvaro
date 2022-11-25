@@ -28,4 +28,7 @@ Git/OpenCV/Pandas/Photoshop
 <a href="roberto_villegas_mendez@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roberto Villegas Mendez" height="30" width="40" />roberto_villegas_mendez@outlook.com</a>
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Alvaro&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Roberto-Alvaro) 
 
