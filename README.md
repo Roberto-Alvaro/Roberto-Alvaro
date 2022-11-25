@@ -20,7 +20,7 @@ Git/OpenCV/Pandas/Photoshop
 - Cyber security
 - Developer
 
-### Find me 
+### Find me:
 
 <p align="left">
 <a href="https://instagram.com/robertovm_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertovm_4" height="30" width="40" /></a>
