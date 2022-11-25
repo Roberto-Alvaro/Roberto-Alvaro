@@ -9,6 +9,7 @@ My name is, Roberto, i am a student of engineering in intelligent systems, with 
 ### My skills:
 
 Java/Python/Linux
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### Interested in:
 
@@ -18,5 +19,7 @@ Java/Python/Linux
 
 ### Find me 
 
-- @robertovm_4
+<p align="left">
+<a href="https://instagram.com/robertovm_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertovm_4" height="30" width="40" /></a>
+</p>
 
