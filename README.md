@@ -23,7 +23,7 @@ Git/OpenCV/Pandas/Photoshop
 ### Find me:
 
 <p align="left">
-<a href="https://instagram.com/robertovm_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertovm_4" height="30" width="40" /></a>
+<a href="https://instagram.com/robertovm_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertovm_4" height="30" width="40" /></a><a href="/roberto_villegas_mendez@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="roberto_villegas_mendez@outlook.com" height="30" width="40" /></a>
 </p>
 
 
