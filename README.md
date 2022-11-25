@@ -1,10 +1,10 @@
 ### Hi curious 👋
 
-![conneting](https://user-images.githubusercontent.com/113721477/203924381-3884e7ee-a665-419a-9a8d-e98c0db37c86.gif)
-
 ### Who I am ?
 
 My name is, Roberto, i am a student of engineering in intelligent systems, with solid knowledge in development in python and java, in addition to having knowledge in linux server administration.
+
+![conneting](https://user-images.githubusercontent.com/113721477/203924381-3884e7ee-a665-419a-9a8d-e98c0db37c86.gif)
 
 ### Languages and Tools:
 
