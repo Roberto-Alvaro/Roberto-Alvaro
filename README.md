@@ -20,4 +20,3 @@ Java/Python/Linux
 
 - @robertovm_4
 
-![GitHub stats]
