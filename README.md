@@ -29,8 +29,8 @@ Git/OpenCV/Pandas/Photoshop
 </p>
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
-<p></p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Alvaro&show_icons=true)  
-<p></p>
+
 ![Profile views](https://gpvc.arturio.dev/Roberto-Alvaro) 
 
