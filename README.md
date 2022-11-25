@@ -30,7 +30,7 @@ Git/OpenCV/Pandas/Photoshop
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Alvaro&langs_count=8)](https://github.com/Roberto-Alvaro/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Alvaro&show_icons=true)  
+[![Roberto-Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Alvaro&theme=dark)](https://github.com/Roberto-Alvaro/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Roberto-Alvaro) 
 
