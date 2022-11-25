@@ -1,6 +1,6 @@
 ### Hi curious 👋
 
-<img src="https://pin.it/4IHYwzM" width="300">
+![conneting](https://user-images.githubusercontent.com/113721477/203924381-3884e7ee-a665-419a-9a8d-e98c0db37c86.gif)
 
 ### Who I am ?
 
