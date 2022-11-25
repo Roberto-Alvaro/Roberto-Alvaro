@@ -1,6 +1,6 @@
 ### Hi curious 👋
 
-<img src="[https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F484418503672426270%2F&psig=AOvVaw3T-UScF-S6YG0h6iWvKfH3&ust=1669446940147000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODu_dHkyPsCFQAAAAAdAAAAABAE)" width="300">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F484418503672426270%2F&psig=AOvVaw3T-UScF-S6YG0h6iWvKfH3&ust=1669446940147000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIji1a3lyPsCFQAAAAAdAAAAABAh" width="300">
 
 ### Who I am ?
 
