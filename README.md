@@ -27,7 +27,7 @@ Git/OpenCV/Pandas/Photoshop
 <p></p>
 <a href="mailto:roberto_villegas_mendez@outlook.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Roberto Villegas Mendez" height="30" width="40" />roberto_villegas_mendez@outlook.com</a>
 </p>
-<p></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-AlvaroUP&langs_count=8)](https://github.com/Roberto-Alvaro/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Alvaro&show_icons=true)  
