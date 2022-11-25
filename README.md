@@ -16,8 +16,8 @@ Git/OpenCV/Pandas/Photoshop
 
 ### Interested in:
 
-- Data Science
 - Cyber security
+- Data Science
 - Developer
 
 ### Find me:
